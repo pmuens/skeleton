@@ -1,7 +1,7 @@
 Package.describe({
   name: 'pmuens:skeleton',
   summary: 'Wraps the popular Skeleton responsive boilerplate into a meteor package.',
-  version: '0.1.0',
+  version: '2.0.2',
   git: 'https://github.com/pmuens/skeleton.git'
 });
 
