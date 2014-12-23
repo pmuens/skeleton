@@ -5,8 +5,8 @@ Package.describe({
   git: 'https://github.com/pmuens/skeleton.git'
 });
 
-Package.on_use(function(api) {
-  api.add_files([
+Package.onUse(function(api) {
+  api.addFiles([
     'Skeleton/css/normalize.css',
     'Skeleton/css/skeleton.css'
     ], ['client']);
